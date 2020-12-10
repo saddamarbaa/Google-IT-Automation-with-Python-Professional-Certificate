@@ -14,6 +14,6 @@ and IT automation -- that can help you advance your career..
 link to the Google IT Automation with Python Professional Certificate on Coursera
 https://www.coursera.org/professional-certificates/google-it-automation
 
-# TODO
+
 
 
